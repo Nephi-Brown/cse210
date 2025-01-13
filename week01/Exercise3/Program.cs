@@ -31,7 +31,7 @@ class Program
                 }
             }
             string textVersion = Attempt.ToString();
-            Console.Write($"It took you {textVersion} attempts to guess the magic number");
+            Console.Write($"It took you {textVersion} attempts to guess the magic number!\n");
             Console.Write("Would you like to play again? Enter yes if so.\n");
             Playgame = Console.ReadLine();
         }                    
