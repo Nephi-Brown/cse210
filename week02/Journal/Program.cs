@@ -1,6 +1,3 @@
-//Please enter journal.txt when running this program if you wish to test all functions, as it has been prepared so that it 
-//can be tested for everything this program is capable of.
-
 //Added code to prevent nothing being displayed when certain things are done at certain times, such as asking to display when no entires have been written or loaded.
 //Added code to reqest for tags to be put in by the user, treating these tags as a fourth part of the journal entry alongside the existing three(date, prompt and entry)
 //Added code to allow the user to display specifically entries on the same date, or entries with the same tag, alongside being able to display all entries.
