@@ -1,3 +1,5 @@
+//Added a recording class that records the things the user does in the mindfulness program and how long they do them for. 
+
 using System;
 using System.Collections.Generic;
 using System.Threading;
